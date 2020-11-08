@@ -1,7 +1,5 @@
 React Example made with Material UI - React-Router & React-Redux 
 
-# 
-
 ## Available Scripts
 
 In the project directory, you can run:
