@@ -1,5 +1,7 @@
 React Example made with Material UI - React-Router & React-Redux 
 
+Status: In progress...
+
 ## Available Scripts
 
 In the project directory, you can run:
